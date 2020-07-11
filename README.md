@@ -1,4 +1,8 @@
-<h3 align="center">Hi! I'm Ilham :wave:</h3>
+<h3 align="center">:wave: Hi! I'm Ilham.</h3>
+
+<p align="center">
+    <a href="https://iwgx.github.io/amazing-things/">Projects</a>
+</p>
 
 ---
 
