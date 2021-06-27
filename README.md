@@ -15,7 +15,9 @@
 
 - I'm a **Frontend Developer** based on Bandung, Indonesia :desert_island:
 - Currently I was Informatics student in **Institut Teknologi Bandung** :man_student:
-- I'm also a speaker on web development topics :microphone:
+- Right now I'm building a startup: Bersihin.co as Co-founder and CTO :sunglasses:
+- I'm also a Web Engineer in a stealth startup (not public yet) :detective:
+- I was a speaker on web development topics :microphone:
 - Prefer to use Vue and Flutter but also able to use others especially React :handshake:
 - Aware with SEO, accessibility, and performance :rocket:
 - Hobby: play Yu-gi-oh and cooking :man_cook:
