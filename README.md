@@ -21,3 +21,12 @@
 - Prefer to use Vue and Flutter but also able to use others especially React :handshake:
 - Aware with SEO, accessibility, and performance :rocket:
 - Hobby: play Yu-gi-oh and cooking :man_cook:
+
+<h4 align="center">
+    Want to talk with me? <br>
+    We can discuss side project, invite me become speaker, ask about career and my startup, or chit-chat about frontend
+    </h4>
+
+<p align="center">
+    <a href="https://calendly.com/ilhamwahabi/bincang-bincang">Calendly</a>
+</p>
