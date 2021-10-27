@@ -11,22 +11,19 @@
     <a href="https://ko-fi.com/ilhamwahabi">Ko-fi</a>
 </p>
 
+<h4 align="center">
+Let's discuss about project, become a speaker, career, startup, or frontend for FREE
+</h4>
+
+<p align="center">
+    <a href="https://calendly.com/ilhamwahabi/bincang-bincang">Calendly</a>
+</p>
+
 ---
 
 - I'm a **Frontend Developer** based on Bandung, Indonesia :desert_island:
-- Currently I was Informatics student in **Institut Teknologi Bandung** :man_student:
-- Right now I'm building a startup: Bersihin.co as Co-founder and CTO :sunglasses:
 - I'm also a Web Engineer in a stealth startup (not public yet) :detective:
 - I was a speaker on web development topics :microphone:
 - Prefer to use Vue and Flutter but also able to use others especially React :handshake:
 - Aware with SEO, accessibility, and performance :rocket:
 - Hobby: play Yu-gi-oh and cooking :man_cook:
-
-<h4 align="center">
-    Want to talk with me? <br>
-    We can discuss side project, invite me become speaker, ask about career and my startup, or chit-chat about frontend
-    </h4>
-
-<p align="center">
-    <a href="https://calendly.com/ilhamwahabi/bincang-bincang">Calendly</a>
-</p>
