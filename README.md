@@ -16,7 +16,7 @@ Let's discuss about project, become a speaker, career, startup, or frontend for 
 </h4>
 
 <p align="center">
-    <a href="https://calendly.com/ilhamwahabi/bincang-bincang">Calendly</a>
+    <a href="https://calendly.com/ilhamwahabi/ngobrol">Calendly</a>
 </p>
 
 ---
