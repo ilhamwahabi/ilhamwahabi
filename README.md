@@ -16,7 +16,5 @@
 - I'm also a Web Engineer in a stealth startup (not public yet) :detective:
 - I'm a speaker on web development topics :microphone:
 - I was a Informatics Engineering student in **Institut Teknologi Bandung**
-- Prefer to use Vue and Flutter but also able to use others especially React :handshake:
 - Interested in SEO, accessibility, and performance :rocket:
-- My hobby are playing game (Yu-Gi-Oh, Age of Empires, and Nintendo Switch) + cooking :man_cook:
 - You can appreciate my work in [Trakteer](https://trakteer.id/ilhamwahabi) or [Ko-fi](https://ko-fi.com/ilhamwahabi) :sparkling_heart:
