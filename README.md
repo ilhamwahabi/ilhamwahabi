@@ -6,10 +6,6 @@
     <a href="https://iwgx.io/talk">Talk</a>
 </p>
 
-<h4 align="center">
-    Discuss anything with me <a href="https://calendly.com/ilhamwahabi/ngobrol">here</a> (it's FREE of course)
-</h4>
-
 ---
 
 - I'm a **Frontend Developer** based on Bandung, Indonesia :desert_island:
