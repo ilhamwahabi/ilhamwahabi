@@ -13,4 +13,3 @@
 - I'm also a speaker on web development topics :microphone:
 - I was a Informatics Engineering student in **Institut Teknologi Bandung**
 - Interested in **SEO**, **accessibility**, and **performance** :rocket:
-- You can appreciate my work in [Trakteer](https://trakteer.id/ilhamwahabi) or [Ko-fi](https://ko-fi.com/ilhamwahabi) :sparkling_heart:
