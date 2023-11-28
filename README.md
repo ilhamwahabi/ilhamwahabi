@@ -2,7 +2,7 @@
 
 ---
 
-- I'm a **Frontend Developer** based on Bandung, Indonesia :desert_island:
-- Currently work as a Software Engineer in **Stealth Startup** (not public yet) :detective:
+- I'm a **UI Engineer** based in Bandung, Indonesia :desert_island:
 - I'm also a speaker on web development topics :microphone:
-- I was a Informatics Engineering student in **Institut Teknologi Bandung**
+- I was an Informatics Engineering student in **Institut Teknologi Bandung**
+- Currenly tinkering with iOS development in Swift and XCode
