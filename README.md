@@ -5,4 +5,4 @@
 - I'm a **UI Engineer** based in Bandung, Indonesia :desert_island:
 - I'm also a speaker on web development topics :microphone:
 - I was an Informatics Engineering student in **Institut Teknologi Bandung**
-- Currenly tinkering with iOS development in Swift and XCode
+- Currenly building https://www.adayangnikah.com to help couples make their digital invitation seamless
